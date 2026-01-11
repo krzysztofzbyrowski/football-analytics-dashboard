@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+
+# Data Files (Optional: remove these lines if you WANT to upload your data)
+# Ideally, you don't upload large datasets to GitHub, but for a portfolio, small DBs are fine.
+# data/raw/*.csv
+# data/football_2526.db
+
+# VS Code settings
+.vscode/
